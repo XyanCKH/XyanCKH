@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**XyanCKH/XyanCKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ImageHead]https://github.com/XyanCKH/XyanCKH/blob/main/header.png
 
 Here are some ideas to get you started:
 
